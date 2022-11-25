@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://cs1300worldcupdraft.web.app/
 
 ### Goal and Value of the Application
 
