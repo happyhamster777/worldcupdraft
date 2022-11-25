@@ -1,0 +1,21 @@
+.countdown-container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: 40px 14px;
+  font-family: "Bayon", sans-serif;
+  user-select: none;
+
+  .number {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .section {
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

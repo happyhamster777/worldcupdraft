@@ -1,0 +1,18 @@
+@import '../../global/globalCssVariables.scss';
+
+.cardGroup-container {
+    display: flex;
+    flex-direction: column;
+
+    .cardGroup-title {
+        font-family: "Bayon", sans-serif;
+        padding-left: 30px;
+        font-size: 40px;
+    }
+
+    .item-container {
+        display: flex;
+        flex-flow: row wrap;
+        gap: 10px;
+    }
+}

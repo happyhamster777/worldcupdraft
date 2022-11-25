@@ -1,0 +1,18 @@
+@import '../../global/globalCssVariables.scss';
+
+.button-container {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3px 7px;
+  border-radius: 5px;
+  font-family: "Bayon", sans-serif;
+  width: fit-content;
+  transition: 0.2s ease;
+  user-select: none;
+
+  &:hover {
+    background: rgb(193, 193, 193);
+  }
+}
