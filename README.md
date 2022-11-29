@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://cs1300worldcupdraft.web.app/
 
 ### Goal and Value of the Application
 With the FIFA World Cup happening this year, I built out a World Cup predictor application in which the user can choose 5 teams (one from each Pool) and submit their teams. Each World Cup team is ranked based on their performance via a scoring system (outline in the `Rules` page). There are 32 cards (one for each World Cup team) and the user can select teams. There is an aggregator value which is the total number of points that the teams have used so far.  
